@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="200.0" prefWidth="300.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.60" fx:controller="controllers.com.FXMLNewWindowController">
+   <children>
+      <TextField fx:id="txtField" layoutX="76.0" layoutY="75.0" promptText="hi!" />
+   </children>
+</AnchorPane>
